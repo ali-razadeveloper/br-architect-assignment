@@ -10,7 +10,7 @@ header {
 }
 
 #hero-section {
-    background-image: url("https://www.w3schools.com/w3images/architect.jpget/6b165cb7-e876-4c4c-ab6a-a1ed3030d08e.jpeg");
+    background-image: url(https://www.w3schools.com/w3images/architect.jpg);
     height: 90vh;
     background-size: cover;
     background-position: center;
